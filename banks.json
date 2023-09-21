@@ -1,158 +1,158 @@
 [
-{
-    "logo":"/layout/images/enpara.png",
+    {
+    "logo": "./logo/akbank.jpg",
     "bankName":"Enpara.com"
     },
     {
-    "logo":"/layout/images/qnb.png",
+    "logo": "./logo/qnb.png",
     "bankName":"QNB FinansBank"
     },
     {
-    "logo":"/layout/images/ziraat.png",
+    "logo": "./logo/ziraat.png",
     "bankName":"Ziraat Bankası"
     },
     {
-    "logo":"/layout/images/garanti.png",
+    "logo": "./logo/akbank.jpg",
     "bankName":"Garanti Bankası"
     },
     {
-    "logo":"/layout/images/akbank.jpg",
+    "logo": "./logo/akbank.jpg",
     "bankName":"Ak Bank"
     },
     {
-    "logo":"/layout/images/halkbank.png",
+    "logo": "./logo/halkbank.png",
     "bankName":"Halk Bankası"
     },
     {
-    "logo":"/layout/images/yapikredi.png",
+    "logo": "./logo/yapikredi.png",
     "bankName":"Yapı Kredi Bankası"
     },
     {
-    "logo":"/layout/images/isbank.jpg",
+    "logo": "./logo/isbank.jpg",
     "bankName":"İŞ Bankası"
     },
     {
-    "logo":"/layout/images/vakifbank.png",
+    "logo": "./logo/vakifbank.png",
     "bankName":"Vakıf Bank"
     },
     {
-    "logo":"/layout/images/denizbank.png",
+    "logo": "./logo/denizbank.png",
     "bankName":"Deniz Bank"
     },
     {
-    "logo":"/layout/images/ingbank.png",
+    "logo": "./logo/ingbank.png",
     "bankName":"ING Bank"
     },
     {
-    "logo":"/layout/images/fibabank.png",
+    "logo": "./logo/fibabank.png",
     "bankName":"Fiba Bank"
     },
     {
-    "logo":"/layout/images/sekerbank.png",
+    "logo": "./logo/sekerbank.png",
     "bankName":"Şeker Bank"
     },
     {
-    "logo":"/layout/images/citibank.png",
+    "logo": "./logo/citibank.png",
     "bankName":"Citi Bank"
     },
     {
-    "logo":"/layout/images/odeabank.png",
+    "logo": "./logo/odeabank.png",
     "bankName":"Odea Bank"
     },
     {
-    "logo":"/layout/images/burganbank.png",
+    "logo": "./logo/burganbank.png",
     "bankName":"Burgan Bank"
     },
     {
-    "logo":"/layout/images/hsbc.png",
+    "logo": "./logo/hsbc.png",
     "bankName":"HSBC Bank"
     },
     {
-    "logo":"/layout/images/anadolubank.png",
+    "logo": "./logo/anadolubank.png",
     "bankName":"Anadolu Bank"
     },
     {
-    "logo":"/layout/images/alternatifbank.png",
+    "logo": "./logo/alternatifbank.png",
     "bankName":"Alternatif Bank"
     },
     {
-    "logo":"/layout/images/icbc.png",
+    "logo": "./logo/icbc.png",
     "bankName":"ICBC Turkey"
     },
     {
-    "logo":"/layout/images/turkiyeekonomi.png",
+    "logo": "./logo/turkiyeekonomi.png",
     "bankName":"Türk Ekonomi Bankası"
     },
     {
-    "logo":"/layout/images/turkiyeticaretbank.png",
+    "logo": "./logo/turkiyeticaretbank.png",
     "bankName":"Türk Ticaret Bankası"
     },
     {
-    "logo":"/layout/images/vakıfkatılım.png",
+    "logo": "./logo/vakıfkatılım.png",
     "bankName":"Vakıf Katılım Bankası A.Ş."
     },
     {
-    "logo":"/layout/images/ziraat.png",
+    "logo": "./logo/ziraat.png",
     "bankName":"Ziraat Katılım Bankası A.Ş."
     },
     {
-    "logo":"/layout/images/albarakabank.png",
+    "logo": "./logo/albarakabank.png",
     "bankName":"Albaraka Türk Katılım Bankası A.Ş."
     },
     {
-    "logo":"/layout/images/kuveytturk.png",
+    "logo": "./logo/kuveytturk.png",
     "bankName":"Kuveyt Türk Katılım Bankası A.Ş."
     },
     {
-    "logo":"/layout/images/emlakkatılımbank.png",
+    "logo": "./logo/emlakkatılımbank.png",
     "bankName":"Türkiye Emlak Katılım Bankası A.Ş."
     },
     {
-    "logo":"/layout/images/türkiyefinanskatılım.png",
+    "logo": "./logo/türkiyefinanskatılım.png",
     "bankName":"Türkiye Finans Katılım Bankası A.Ş"
     },
     {
-    "logo":"/layout/images/deutschebank.png",
+    "logo": "./logo/deutschebank.png",
     "bankName":"Deutsche Bank"
     },
     {
-    "logo":"/layout/images/intesiasanpolo.png",
+    "logo": "./logo/intesiasanpolo.png",
     "bankName":"Intesa Sanpaolo"
     },
     {
-    "logo":"/layout/images/araptürkbank.jpeg",
+    "logo": "./logo/araptürkbank.jpeg",
     "bankName":"Arap Türk Bankası"
     },
     {
-    "logo":"/layout/images/mufgbank.png",
+    "logo": "./logo/mufgbank.png",
     "bankName":"Mufg Bank Turkey"
     },
     {
-    "logo":"/layout/images/rabobank.png",
+    "logo": "./logo/rabobank.png",
     "bankName":"Rabobank Türkiye"
     },
     {
-    "logo":"/layout/images/turkishbank.png",
+    "logo": "./logo/turkishbank.png",
     "bankName":"Turkısh Bank"
     },
     {
-    "logo":"/layout/images/turklandbank.png",
+    "logo": "./logo/turklandbank.png",
     "bankName":"Turkland Bank"
     },
     {
-    "logo":"/layout/images/bankmellat.png",
+    "logo": "./logo/bankmellat.png",
     "bankName":"Bank Mellat"
     },
     {
-    "logo":"/layout/images/bankofchina.jpg",
+    "logo": "./logo/bankofchina.jpg",
     "bankName":"Bank of China Turkey"
     },
     {
-    "logo":"/layout/images/societegenerale.png",
+    "logo": "./logo/societegenerale.png",
     "bankName":"Societe Generale Türkiye"
     },
     {
-    "logo":"/layout/images/habibbank.jpg",
+    "logo": "./logo/habibbank.jpg",
     "bankName":"Habib Bank Limited Merkezi "
     }
 ]
